@@ -36,7 +36,7 @@ Website ini memiliki beberapa fitur utama, yaitu:
 ## Struktur Folder
 
 ```text
-UTS-Web/
+uts_web_1/
 │
 ├── index.html
 │
